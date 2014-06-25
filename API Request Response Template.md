@@ -1,5 +1,8 @@
 ## <Name of Resource>
 
+Created:
+Updated:
+
 ### Showing all <Name of Resource>
 
 #### Request
