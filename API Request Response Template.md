@@ -1,8 +1,7 @@
 ## <Name of Resource>
 
-Created:
-
-Updated:
+* Created:
+* Updated:
 
 ### Showing all <Name of Resource>
 
