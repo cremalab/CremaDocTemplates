@@ -21,6 +21,10 @@
 * [ ] Finalize strong params
 * [ ] Check to see if this needs authorization and add it in if needed.
 
+#### Index
+* [ ] Write tests
+* [ ] Write Action
+
 #### Create
 * [ ] Write tests
 * [ ] Write Action
