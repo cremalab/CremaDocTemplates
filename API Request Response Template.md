@@ -3,6 +3,9 @@
 * Created:
 * Updated:
 
+### Attributes
+
+
 ### Showing all <Name of Resource>
 
 #### Request
