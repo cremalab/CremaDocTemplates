@@ -5,6 +5,8 @@
 
 ### Attributes
 
+|type|name|saved to db|
+|----|----|:---:|
 
 ### Showing all <Name of Resource>
 
